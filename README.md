@@ -12,7 +12,7 @@ make main
 > this rule is using `g++` compiler
 
 ## Test 🧪
-You can run the test suit, suing the following command:
+You can run the test suit, using the following command:
 ```
 make test
 ```
